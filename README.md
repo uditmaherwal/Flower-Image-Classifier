@@ -6,4 +6,4 @@ The project is broken down into multiple steps:
 1. Load and preprocess the image dataset
 2. Train the image classifier on your dataset
 3. Use the trained classifier to predict image content
-I'll lead you through each part which I've implement in Python.
+I'll lead you through each part which I've implemented in Python.
