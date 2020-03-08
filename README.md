@@ -16,7 +16,7 @@ I'll lead you through each part which I've implemented in Python.
 
 Software and Libraries
 This project uses the following software and Python libraries:
-NumPy, pandas, Matplotlib (for data visualization), Seaborn (for data visualization)
+NumPy, pandas, Matplotlib (for data visualization), Seaborn.
 
 Code File
 Open file jupyter notebook imageclassifierproject.ipynb
